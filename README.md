@@ -1,5 +1,3 @@
-# testrepo
+# Data Science Case Study
 
-## Editing the file
-
-It's a markdown file in this repository
+My work Notebooks in Applied Data Science Capstone course
